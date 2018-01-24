@@ -1,0 +1,37 @@
+-injars 'E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\transforms\jarMerging\platform_whh2\release\jars\1\1f\combined.jar'
+-outjars 'E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\multi-dex\platform_whh2\release\componentClasses.jar'
+
+-libraryjars 'D:\Android\sdk\build-tools\25.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\multi-dex\platform_whh2\release\components.flags'
+
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

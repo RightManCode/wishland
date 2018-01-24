@@ -1,0 +1,68 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    signingConfigs {
+
+//        Wishland_jfh {
+//            keyAlias 'jinfenghuang'
+//            keyPassword 'jfh321456'
+//            storeFile file('/Users/jay/文件区/packKey/金凤凰/jinfenghuang.jks')
+//            storePassword 'jfh321456'
+//
+//        }
+    }
+
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 25
+        applicationId "com.jinfenghuang.www"
+        versionCode 102
+        versionName "1.0.2"
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        manifestPlaceholders = [
+                JPUSH_PKGNAME      : applicationId,
+                AppName            : "金凤凰",
+                ICon               : "@mipmap/app_logo",
+                UMENG_CHANNEL_VALUE: name]
+        resValue("string", "MainApplicationIDPath", applicationId)
+        resValue("string", "AliUrl", "http://www.jfh70.com/")
+        resValue("string", "DomainCode", "jfh")
+        resValue("string", "VersionCode", "5091a1747a3e8b5b650214ae056c82e0")
+        resValue("string", "AppName", "金凤凰")
+        resValue("string", "AppStyle", "type2")
+        resValue("string", "updateURL", "https://tpfw.083075.com/system/getAppLastChange")
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.1'
+
+    compile 'com.squareup.okhttp3:okhttp:3.2.0'
+    compile 'com.squareup.okio:okio:1.5.0'
+    compile 'com.lzy.net:okgo:2.1.4'
+
+    //动态权限
+    annotationProcessor 'com.github.hotchemi:permissionsdispatcher-processor:2.4.0'
+    compile 'com.github.hotchemi:permissionsdispatcher:2.4.0'
+
+    //ButterKnife
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    compile 'com.jakewharton:butterknife:8.5.1'
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile 'com.afollestad.material-dialogs:core:0.9.4.4'
+
+}

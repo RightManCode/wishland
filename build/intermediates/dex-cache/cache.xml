@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\libs\umeng-common-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75726739f982ee309596153af6b09e1342170a16">
+        <dex dex="E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\transforms\dex\platform_whh2\debug\folders\1000\8\umeng-common-1.4.0_7cf990d406e4a8ce483e7621ee53fbf6a43da534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\libs\alicloud-android-sdk-httpdns-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d61bb0f23861e5b86d4308a9ed2a4751e95fe03">
+        <dex dex="E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\transforms\dex\platform_whh2\debug\folders\1000\8\alicloud-android-sdk-httpdns-1.0.7_21e3a3bafb95804dd971db51af445e73d67f0f0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\libs\com.umeng.message_3.1.5a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e90241ab59c944f3c392cab4c735da000a3c78e">
+        <dex dex="E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\transforms\dex\platform_whh2\debug\folders\1000\8\com.umeng.message_3.1.5a_4dc0d77ccb46e64af8b2ce1f7d8a7b3d22fca4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\libs\utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a4a47c44b68ea5c20e370d37f1779c57211aa68">
+        <dex dex="E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\transforms\dex\platform_whh2\debug\folders\1000\8\utdid4all-1.1.5.3_proguard_7cdf76f67773492897a773cbe4e126c301daf265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a908a9ecf77c0bb9ef606b0aa7a0c0dc0612eb02">
+        <dex dex="E:\02Android\新架构\wishland\wanhaohui2\build\intermediates\transforms\dex\platform_whh2\debug\folders\1000\4\classes_a041e04b9bb3c0e70b17a2e68abd8045ede066f0\classes.dex" />
+    </item>
+
+</items>

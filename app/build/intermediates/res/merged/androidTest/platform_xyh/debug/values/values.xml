@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AliUrl" translatable="false">www.yh33350.com</string>
+    <string name="AppName" translatable="false">银河娱乐城</string>
+    <string name="AppStyle" translatable="false">type1</string>
+    <string name="DomainCode" translatable="false">yh33350.com</string>
+    <string name="MainApplicationIDPath" translatable="false">com.xyh.www</string>
+    <string name="VersionCode" translatable="false">8d2fccfdb7e1a9a707664439e7f6c45e</string>
+    <string name="app_name">Test-api</string>
+</resources>

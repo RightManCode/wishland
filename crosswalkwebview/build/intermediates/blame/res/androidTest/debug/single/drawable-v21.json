@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\button_compat.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\button_compat.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\button_borderless_compat.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\button_borderless_compat.xml"
+    },
+    {
+        "merged": "D:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\button_compat.xml",
+        "source": "D:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\button_compat.xml"
+    },
+    {
+        "merged": "D:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\button_borderless_compat.xml",
+        "source": "D:\\02Android\\新架构\\wishland\\crosswalkwebview\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\button_borderless_compat.xml"
+    }
+]

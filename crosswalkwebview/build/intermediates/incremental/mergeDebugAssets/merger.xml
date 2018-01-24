@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\02Android\新架构\wishland\crosswalkwebview\src\main\assets"/><source path="D:\02Android\新架构\wishland\crosswalkwebview\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\02Android\新架构\wishland\crosswalkwebview\src\debug\assets"/></dataSet></merger>

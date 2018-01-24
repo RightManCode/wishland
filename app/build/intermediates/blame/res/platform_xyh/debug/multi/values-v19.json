@@ -1,0 +1,1146 @@
+[
+    {
+        "outputFile": "D:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\incremental\\mergePlatform_xyhDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 12427,
+                        "endLine": 269,
+                        "endColumn": 12,
+                        "endOffset": 12631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 12161,
+                        "endLine": 263,
+                        "endColumn": 12,
+                        "endOffset": 12391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 12639,
+                        "endLine": 283,
+                        "endColumn": 12,
+                        "endOffset": 13072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1872
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 10415,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 10760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1877,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 9775,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 10386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 2900
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2905,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 3313
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 11259,
+                        "endLine": 248,
+                        "endColumn": 12,
+                        "endOffset": 11674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3318,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 3696
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5190,
+                        "endLine": 120,
+                        "endColumn": 12,
+                        "endOffset": 5575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3701,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 4164
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 11682,
+                        "endLine": 258,
+                        "endColumn": 12,
+                        "endOffset": 12153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4169,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 4498
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4366,
+                        "endLine": 100,
+                        "endColumn": 12,
+                        "endOffset": 4701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4503,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 4897
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4748,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 5149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4902,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 5186
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 4031,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 4320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5191,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 5537
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 9380,
+                        "endLine": 207,
+                        "endColumn": 12,
+                        "endOffset": 9733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5542,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 6121
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5619,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 6208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6126,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 6601
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 10768,
+                        "endLine": 239,
+                        "endColumn": 12,
+                        "endOffset": 11251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6606,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 7084
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6896,
+                        "endLine": 157,
+                        "endColumn": 12,
+                        "endOffset": 7382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7089,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 7678
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 6253,
+                        "endLine": 146,
+                        "endColumn": 12,
+                        "endOffset": 6852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7683,
+                    "endLine": 154,
+                    "endColumn": 12,
+                    "endOffset": 7854
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3812,
+                        "endLine": 83,
+                        "endColumn": 12,
+                        "endOffset": 3985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7859,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 8384
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1663,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8389,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 8863
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 8868,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 9462
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 8134,
+                        "endLine": 184,
+                        "endColumn": 12,
+                        "endOffset": 8738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 9467,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 10122
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 7426,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 8092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 10127,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 10704
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 8783,
+                        "endLine": 197,
+                        "endColumn": 12,
+                        "endOffset": 9370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 10709,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 11293
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3210,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 3804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 11298,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 11749
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2657,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 11754,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 12148
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2223,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2624
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\incremental\\mergePlatform_xyhDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 12427,
+                        "endLine": 269,
+                        "endColumn": 12,
+                        "endOffset": 12631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 12161,
+                        "endLine": 263,
+                        "endColumn": 12,
+                        "endOffset": 12391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 12639,
+                        "endLine": 283,
+                        "endColumn": 12,
+                        "endOffset": 13072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1872
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 10415,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 10760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1877,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 9775,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 10386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 2900
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2905,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 3313
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 11259,
+                        "endLine": 248,
+                        "endColumn": 12,
+                        "endOffset": 11674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3318,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 3696
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5190,
+                        "endLine": 120,
+                        "endColumn": 12,
+                        "endOffset": 5575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3701,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 4164
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 11682,
+                        "endLine": 258,
+                        "endColumn": 12,
+                        "endOffset": 12153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4169,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 4498
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4366,
+                        "endLine": 100,
+                        "endColumn": 12,
+                        "endOffset": 4701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4503,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 4897
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4748,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 5149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4902,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 5186
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 4031,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 4320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5191,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 5537
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 9380,
+                        "endLine": 207,
+                        "endColumn": 12,
+                        "endOffset": 9733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5542,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 6121
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5619,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 6208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6126,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 6601
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 10768,
+                        "endLine": 239,
+                        "endColumn": 12,
+                        "endOffset": 11251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6606,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 7084
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6896,
+                        "endLine": 157,
+                        "endColumn": 12,
+                        "endOffset": 7382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7089,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 7678
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 6253,
+                        "endLine": 146,
+                        "endColumn": 12,
+                        "endOffset": 6852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7683,
+                    "endLine": 154,
+                    "endColumn": 12,
+                    "endOffset": 7854
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3812,
+                        "endLine": 83,
+                        "endColumn": 12,
+                        "endOffset": 3985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7859,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 8384
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1663,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8389,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 8863
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 8868,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 9462
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 8134,
+                        "endLine": 184,
+                        "endColumn": 12,
+                        "endOffset": 8738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 9467,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 10122
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 7426,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 8092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 10127,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 10704
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 8783,
+                        "endLine": 197,
+                        "endColumn": 12,
+                        "endOffset": 9370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 10709,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 11293
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3210,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 3804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 11298,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 11749
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2657,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 11754,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 12148
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2223,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2624
+                    }
+                }
+            }
+        ]
+    }
+]

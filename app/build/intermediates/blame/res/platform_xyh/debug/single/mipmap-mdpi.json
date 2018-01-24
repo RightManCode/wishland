@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_xyh\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_xyh\\debug\\mipmap-mdpi\\wns_logo.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-mdpi\\wns_logo.png"
+    },
+    {
+        "merged": "D:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_xyh\\debug\\mipmap-mdpi\\wns_logo.png",
+        "source": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-mdpi\\wns_logo.png"
+    },
+    {
+        "merged": "D:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_xyh\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_xyh\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_xyh\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,453 @@
+[
+    {
+        "outputFile": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\intermediates\\incremental\\mergePlatform_whh2DebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 70,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 105,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 105,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 60,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 60,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 63,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 63,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 70,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 70,
+                        "endOffset": 546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 63,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endColumn": 63,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 98,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 98,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 86,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 86,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 73,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 73,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 102,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 102,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 70,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 984,
+                        "endColumn": 70,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 107,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 107,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 93,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "D:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1165,
+                        "endColumn": 93,
+                        "endOffset": 1254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 45,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\fcc9ce67cade2e7e4c1c0dec380b16ed250e3f68\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\intermediates\\incremental\\mergePlatform_whh2DebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 105,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 105,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 60,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 63,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 70,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 63,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 98,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 86,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 73,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 102,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 70,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 107,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 93,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "E:\\02Android\\新架构\\wishland\\wanhaohui2\\build\\generated\\res\\resValues\\androidTest\\platform_whh2\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 45,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\fcc9ce67cade2e7e4c1c0dec380b16ed250e3f68\\output\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]
